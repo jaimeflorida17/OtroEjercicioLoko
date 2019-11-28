@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 /home/usuario4/datos
+=======
+/home/usuario1/datos
+
+.gitignore
+>>>>>>> 3aa4c87f67d69ba5bf41d842ddf17fb2def468ab
